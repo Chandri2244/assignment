@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14f62b17.css",
+    "main.js": "/static/js/main.a4576906.js",
+    "static/js/453.01f06be3.chunk.js": "/static/js/453.01f06be3.chunk.js",
+    "static/media/heart.jpg": "/static/media/heart.8cd876d90bd2f90534ec.jpg",
+    "static/media/people.jpg": "/static/media/people.bd516f8501cc2a81ec5e.jpg",
+    "static/media/origami.jpg": "/static/media/origami.232e7c2eacadc917c5c3.jpg",
+    "index.html": "/index.html",
+    "main.14f62b17.css.map": "/static/css/main.14f62b17.css.map",
+    "main.a4576906.js.map": "/static/js/main.a4576906.js.map",
+    "453.01f06be3.chunk.js.map": "/static/js/453.01f06be3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14f62b17.css",
+    "static/js/main.a4576906.js"
+  ]
+}
